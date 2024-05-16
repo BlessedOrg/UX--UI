@@ -168,8 +168,12 @@ This inventive and modular design is paired with a word mark “BLESSED” in ca
 
 An animation that demonstrates the functionality of our solution:
 
-![Animation](..Animation/BLESSED_SFX_4K.mp4)
+![Animation](Animation/BLESSED_SFX_4K.mp4)
 
+<video width="640" height="480" controls>
+    <source src="Animation/BLESSED_SFX_4K.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 
 
