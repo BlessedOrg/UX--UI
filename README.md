@@ -23,9 +23,9 @@ Welcome to the presentation page of our innovative UX solution "Blessed". This p
 
 Our mission is to add a user experience (UX) that has the capability to onboard masses. With "Blessed", we've crafted a solution that is intuitive, effective, and visually captivating. We considered the challenges users face when waiting in virtual queues for oversubscribed events. Our goal was to make this process more engaging and enjoyable while ensuring a fair and transparent distribution model for such events. Our solution strikes for the perfect balance, transforming waiting times into enjoyable experiences while making ticketing fair und transparent. 
 
-## Showreel
+## Stylescape
 
-Here is our showreel that showcases the key features and highlights of our UX solution as giving you a feeling how the UX plays in harmony with the branding
+Here is our Stylescape that showcases the key features and highlights of our UX solution as giving you a feeling how the UX plays in harmony with the branding
 
 ![Showreel](path/to/showreel.gif)
 
