@@ -91,6 +91,12 @@ Boost Phase Activation: Color-coded as Vibrant Orange.
 Friendly Reminders: To generate a new number, also in Vibrant Orange.
 Win Notification: Color-coded as Mystic Berry, accompanied by a micro animation with confetti, drawing attention to the cart/deposit/mint area on the left.
 
+
+Labeling and terminology  
+For the Phases we are thinking about making them more engaging and more human through names like ...
+
+** Link for Notion and see contnet there** 
+
 ### Design
 
 A text block about the design and the unique aspects of our solution.
