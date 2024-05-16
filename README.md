@@ -19,7 +19,7 @@ Welcome to the UX presentation page for our innovative UX solution around the pr
 7. [Icons usage in our UX Design](#Icons-usage-in-our-UX-Design)
 8. [Typography TT Bluescreens & Inter](#Typography-TT-Bluescreens-&-Inter)
 9. [Logo Design BLESSED](#Logo-Design-BLESSED)
-10. [Animatiion](#Animation)
+10. [Animation](#Animation)
 
 
 
@@ -108,7 +108,7 @@ Win Notification: Color-coded as Mystic Berry, accompanied by a micro-animation 
 
 We created a Stylescape as point of reference to establish the overall look and feel for the BLESSED Experience Design Language. Think of Styelscapes as moodboards taken to the next level which shows a few samples of what the final design could look like. They help us agree on the design direction and visual interaction elements before designing anything. It’s not just about creating modular design materials—it’s also about creating a lifestyle ecosystem as well.
 
-![Images](Images/stylescape.png)
+![Stylescape](Images/BLESSED-Stylescape.png)
 
 
 
@@ -131,7 +131,7 @@ Tone of Voice The tone of voice of our app is modern and entertaining, while a
 
 ## Colors
 
-![Colors](Images/colors2.png)
+![Colors](Images/BLESSED-Stylescape.png)
 *Blessed colors*
 
 In our UX design, we apply the 60-30-10 rule to ensure a balanced and harmonious color scheme. **60%** of the visual space is dominated by our primary colors: **Harmony Green**, complemented by **Whispering Fog** and **Lunar Glow**, creating a calm and neutral backdrop. **30%** is allocated to **Mystic Berry** and **Eclipse Black**, used on interactive elements like buttons and links to draw attention and enhance user engagement, such as minting after winning a ticket. The remaining **10%** features **Vibrant Orange** for critical interactions and alerts, alongside **Sunny Whisper** paired with **Mystic Berry** to guide and inform the user. This ensures these elements catch the user’s eye and reinforce the overall usability and aesthetic of the design.
