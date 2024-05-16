@@ -3,8 +3,8 @@ Our submission for the UX / UI competition
 
 
 ---
-title: Blessed UX Solution
-description: A comprehensive showcase of our UX solution
+Blessed UX Solution
+A comprehensive showcase of our UX solution
 ---
 
 # Blessed UX Solution
