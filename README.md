@@ -151,7 +151,7 @@ A selection of images that illustrate our solution:
 
 An animation that demonstrates the functionality of our solution:
 
-![Animation](path/to/animation.gif)
+![Animation](BLESSED_SFX_4K.mp4)
 
 
 ---
