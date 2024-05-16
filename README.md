@@ -77,30 +77,26 @@ Technical approach:
 
 ### Main Functionalities
 
-We have an "Enroll" area docked to the event detail pages, which opens as soon as the user initiates the enrollment process. 
-Within the opened "Enroll" area, the user will see the main ticket purchasing section, which can be collapsed by clicking an arrow icon.
+We have an "Enroll" area docked to the event detail pages, which opens as soon as the user initiates the enrollment process. Within the opened "Enroll" area, the user will see the main ticket purchasing section, which can be collapsed by clicking an arrow icon.
 
-When closed, this area displays information about the remaining time of the lottery or auction phase. 
-We have four phases: Lottery 1, Lottery 2, Auction 1, and Auction 2. Following these phases, there is a Marketplace where users can resell their tickets.
+When closed, this area displays information about the remaining time of the lottery or auction phase. We have four phases: Lottery 1, Lottery 2, Auction 1, and Auction 2. Following these phases, there is a Marketplace where users can resell their tickets.
 
-The "Enroll" area is divided into two parts: 
+The "Enroll" area is divided into two parts:
+
 Left Side: The deposit and cart area.
 Right Side: Occupying more than two-thirds of the space, this is the main part of the interactive window. It contains an interactive timeline showing the duration of each phase. At the top of this section, there is information about the entire ticket purchasing process for the event, including its end time.
-
 Below the phases timeline, there are boxes with information and interactions specific to each phase. For example, in Lottery 2, users can add more money to generate numbers, increasing their chances of winning. To make this action more engaging and exciting, the highlight color orange is used for the button.
 
 Notifications appear on the right sidebar within the interactive window area. These notifications inform the user about:
+
 Cooldown Phase Start: Color-coded as Chill Blue.
 Boost Phase Activation: Color-coded as Vibrant Orange.
 Friendly Reminders: To generate a new number, also in Vibrant Orange.
-Win Notification: Color-coded as Mystic Berry, accompanied by a micro animation with confetti, drawing attention to the cart/deposit/mint area on the left.
+Win Notification: Color-coded as Mystic Berry, accompanied by a micro-animation with confetti, drawing attention to the cart/deposit/mint area on the left.
+Labeling and Terminology
+We created a Stylescape as a point of reference to establish the overall look and feel for the BLESSED Experience Design Language. Think of Stylescapes as mood boards taken to the next level, showing a few samples of what the final design could look like. They help us agree on the design direction and visual interaction elements before designing anything. It’s not just about creating modular design materials—it’s also about creating a lifestyle ecosystem.
 
-
-Labeling and terminology  
-We created a Stylescape as point of reference to establish the overall look and feel for the BLESSED Experience Design Language. Think of Styelscapes as moodboards taken to the next level which shows a few samples of what the final design could look like. They help us agree on the design direction and visual interaction elements before designing anything. It’s not just about creating modular design materials—it’s also about creating a lifestyle ecosystem as well.
-
-At the moment we didn't rename the phases but we are aware of the fact that we need to get better names.
-First options we came with with:
+Currently, we haven't renamed the phases, but we are aware that we need to come up with better names. Our first options include:
 
 ### Lottery I
 
@@ -151,7 +147,7 @@ A selection of images that illustrate our solution:
 
 An animation that demonstrates the functionality of our solution:
 
-![Animation](BLESSED_SFX_4K.mp4)
+![Animation](..Animation/BLESSED_SFX_4K.mp4)
 
 
 ---
