@@ -133,6 +133,13 @@ Tone of Voice The tone of voice of our app is modern and entertaining, while a
 ![Colors](Images/colors2.png)
 *Blessed colors*
 
+---
+
+- **Background Color:** #FFFFFF
+- **Primary Color:** #3498db
+- **Secondary Color:** #2ecc71
+- **Text Color:** #333333
+
 In our UX design, we apply the 60-30-10 rule to ensure a balanced and harmonious color scheme. **60%** of the visual space is dominated by our primary colors: **Harmony Green**, complemented by **Whispering Fog** and **Lunar Glow**, creating a calm and neutral backdrop. **30%** is allocated to **Mystic Berry** and **Eclipse Black**, used on interactive elements like buttons and links to draw attention and enhance user engagement, such as minting after winning a ticket. The remaining **10%** features **Vibrant Orange** for critical interactions and alerts, alongside **Sunny Whisper** paired with **Mystic Berry** to guide and inform the user. This ensures these elements catch the user’s eye and reinforce the overall usability and aesthetic of the design.
 
 ![Colors](Images/colors.png)
@@ -141,26 +148,27 @@ In our UX design, we apply the 60-30-10 rule to ensure a balanced and harmonious
 
 ## Icons usage in our UX Design 
 
-For our user interface elements, we primarily utilize the **SHARP Line** icon set. These icons are characterized by their geometric and high-tech appearance, which contributes to a modern, bold, and professional look. The SHARP Line icons stand out due to their brutalist style, featuring sharp angles and a mix of squares and circles. This design provides a distinctive and strong visual identity that is simple yet effective. Unlike the more common rounded icons, the SHARP Line offers a unique voice and clear legibility, making them an excellent choice for projects that require a serious and impactful yet welcoming and approachable tone. 
+For our user interface elements, we primarily utilize the **SHARP Line** icon set. These icons are characterized by their geometric and high-tech appearance, which contributes to a modern, bold, and professional look. 
+
+![Icons](Images/icons1.png)
+
+The SHARP Line icons stand out due to their brutalist style, featuring sharp angles and a mix of squares and circles. This design provides a distinctive and strong visual identity that is simple yet effective. Unlike the more common rounded icons, the SHARP Line offers a unique voice and clear legibility, making them an excellent choice for projects that require a serious and impactful yet welcoming and approachable tone. 
+![Icons](Images/icons2.png)
 For larger, more illustrative uses, we opt for the **SHARP Duo** icon set. This variant brings versatility and color into our designs without overwhelming detail. The SHARP Duo icons are notable for their customizable line width and dual-color design, allowing for creative and vibrant presentations. We often scale these icons to larger sizes to serve as illustrative graphic elements, enhancing the visual interest and user engagement throughout our application.
+![Icons](Images/icons3.png)
 
 ## Typography TT Bluescreens & Inter
 
 Our corporate typography leverages TT Bluescreens, a geometric sans serif with narrow proportions that offers a clean and modern look. The font is characterized by its memorable yet neutral character.  In addition to TT Bluescreens, we use Inter, a highly readable sans serif from Google Fonts, primarily for body text to complement the headings and ensure clarity and coherence in our interface typography.
 
 ## Logo Design BLESSED
-The logo for BLESSED features a unique pictorial mark: a heart rotated by 90 degrees to resemble a capital letter 'B'. The right side of the heart forms the right side of the 'B', while the left side extends into repeating lines that create a perspective view of the backsides of a 'B'. This inventive and modular design is paired with a word mark “BLESSED” in capital letters using the TT Bluescreens font. This combination ensures that our logo is not only distinctive and impactful but also aligns seamlessly with our overall brand identity, utilizing the strength and character of our corporate fonts.
+The logo for BLESSED features a unique pictorial mark: a heart rotated by 90 degrees to resemble a capital letter 'B'. The right side of the heart forms the right side of the 'B', while the left side extends into repeating lines that create a perspective view of the backsides of a 'B'. 
+
+![Logo](Images/blessed_logo.png)
+
+This inventive and modular design is paired with a word mark “BLESSED” in capital letters using the TT Bluescreens font. This combination ensures that our logo is not only distinctive and impactful but also aligns seamlessly with our overall brand identity, utilizing the strength and character of our corporate fonts.
 
 
-
-
-A selection of images that illustrate our solution:
-
-![Image 1](path/to/image1.jpg)
-*Description of Image 1*
-
-![Image 2](path/to/image2.jpg)
-*Description of Image 2*
 
 ## Animation
 
@@ -169,12 +177,5 @@ An animation that demonstrates the functionality of our solution:
 ![Animation](..Animation/BLESSED_SFX_4K.mp4)
 
 
----
 
-_Color Coding:_
-
-- **Background Color:** #FFFFFF
-- **Primary Color:** #3498db
-- **Secondary Color:** #2ecc71
-- **Text Color:** #333333
 
