@@ -20,9 +20,10 @@ Welcome to the UX presentation page for our innovative UX solution around the pr
 5. [Stylescape](#Stylescape)
 6. [Colors](#Colors)
 7. [Icons usage in our UX Design](#Icons-usage-in-our-UX-Design)
-8. [Typography TT Bluescreens & Inter](#Typography--TT-Bluescreens-&-Inter)
-9. [Logo Design BLESSED](#Logo--Design-BLESSED)
-10. [Logo Design BLESSED](#Logo-Design-BLESSED)
+8. [Typography TT Bluescreens & Inter](#Typography-TT-Bluescreens-&-Inter)
+9. [Logo Design BLESSED](#Logo-Design-BLESSED)
+10. [Animatiion](#Animation)
+
 
 
 ## Introduction
@@ -132,11 +133,11 @@ In our UX design, we apply the 60-30-10 rule to ensure a balanced and harmonious
 For our user interface elements, we primarily utilize the **SHARP Line** icon set. These icons are characterized by their geometric and high-tech appearance, which contributes to a modern, bold, and professional look. The SHARP Line icons stand out due to their brutalist style, featuring sharp angles and a mix of squares and circles. This design provides a distinctive and strong visual identity that is simple yet effective. Unlike the more common rounded icons, the SHARP Line offers a unique voice and clear legibility, making them an excellent choice for projects that require a serious and impactful yet welcoming and approachable tone. 
 For larger, more illustrative uses, we opt for the **SHARP Duo** icon set. This variant brings versatility and color into our designs without overwhelming detail. The SHARP Duo icons are notable for their customizable line width and dual-color design, allowing for creative and vibrant presentations. We often scale these icons to larger sizes to serve as illustrative graphic elements, enhancing the visual interest and user engagement throughout our application.
 
-## Typography - TT Bluescreens & Inter
+## Typography TT Bluescreens & Inter
 
 Our corporate typography leverages TT Bluescreens, a geometric sans serif with narrow proportions that offers a clean and modern look. The font is characterized by its memorable yet neutral character.  In addition to TT Bluescreens, we use Inter, a highly readable sans serif from Google Fonts, primarily for body text to complement the headings and ensure clarity and coherence in our interface typography.
 
-## Logo Design - BLESSED
+## Logo Design BLESSED
 The logo for BLESSED features a unique pictorial mark: a heart rotated by 90 degrees to resemble a capital letter 'B'. The right side of the heart forms the right side of the 'B', while the left side extends into repeating lines that create a perspective view of the backsides of a 'B'. This inventive and modular design is paired with a word mark “BLESSED” in capital letters using the TT Bluescreens font. This combination ensures that our logo is not only distinctive and impactful but also aligns seamlessly with our overall brand identity, utilizing the strength and character of our corporate fonts.
 
 
