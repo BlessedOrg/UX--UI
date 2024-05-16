@@ -127,8 +127,6 @@ Labeling and Terminology For the phases, we are considering making them more e
 
 Tone of Voice The tone of voice of our app is modern and entertaining, while also being guiding, transparent, and professional. This ensures that users feel supported and informed throughout their experience, enhancing both usability and enjoyment.
 
-![Colors](Images/colors2.png)
-*Blessed colors*
 
 
 ## Colors
