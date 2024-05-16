@@ -20,9 +20,9 @@ Welcome to the UX presentation page for our innovative UX solution around the pr
 5. [Stylescape](#Stylescape)
 6. [Colors](#Colors)
 7. [Icons usage in our UX Design](#Icons-usage-in-our-UX-Design)
-8. [Typography: TT Bluescreens & Inter](#Typography--TT-Bluescreens-&-Inter)
-9. [Logo Design: BLESSED](#Logo--Design-BLESSED)
-10. [Logo Design: BLESSED](#Logo-Design:-BLESSED)
+8. [Typography TT Bluescreens & Inter](#Typography--TT-Bluescreens-&-Inter)
+9. [Logo Design BLESSED](#Logo--Design-BLESSED)
+10. [Logo Design BLESSED](#Logo-Design-BLESSED)
 
 
 ## Introduction
