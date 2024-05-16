@@ -53,16 +53,16 @@ The goal of our project is to create a seamless experience for users transitioni
 ```
 “Make switching between exploring the event background information and purchasing a ticket feel natural.”
 ```
-This guiding principle has led us to explore various ideas aimed at entertaining and engaging the user, such as: 
-During Waiting Periods:
-Entertainment and Information Slider: An interactive window featuring an entertainment and information slider to keep users engaged while they wait.
-“Take a Break” Switch: A switch that transforms the slider content into a "Back to Lottery" view, supported by a vertical switch flip animation for a smooth transition between the slider and lottery areas.
-Cooldown Phase Countdown: A countdown timer with color coding in "BLESSED Chill Blue" to indicate cooldown phases, providing users with a clear visual cue for breaks.
-Visualizing the Four Main Phases:
-We employ a running down time metaphor in the bars representing the four phases of our product's main functionality.
-Active and Remaining Time: Represented by the active color "Harmony Green."
-Passed Time: Indicated by turning the bar grey in "Whispering Fog."
-These features are designed to create an intuitive and engaging user experience, ensuring that every aspect of the interface aligns with our overarching goal.
+This guiding principle has led us to explore various ideas aimed at entertaining and engaging the user, such as:   
+During Waiting Periods:  
+Entertainment and Information Slider: An interactive window featuring an entertainment and information slider to keep users engaged while they wait.  
+“Take a Break” Switch: A switch that transforms the slider content into a "Back to Lottery" view, supported by a vertical switch flip animation for a smooth transition between the slider and lottery areas.  
+Cooldown Phase Countdown: A countdown timer with color coding in "BLESSED Chill Blue" to indicate cooldown phases, providing users with a clear visual cue for breaks.  
+Visualizing the Four Main Phases:  
+We employ a running down time metaphor in the bars representing the four phases of our product's main functionality.  
+Active and Remaining Time: Represented by the active color "Harmony Green."  
+Passed Time: Indicated by turning the bar grey in "Whispering Fog."  
+These features are designed to create an intuitive and engaging user experience, ensuring that every aspect of the interface aligns with our overarching goal.  
 
 
 
