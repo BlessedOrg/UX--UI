@@ -31,20 +31,25 @@ Here is our Stylescape that showcases the key features and highlights of our UX 
 
 ## Our UX Challenges
 
-We face various UX challenges.
-On the one hand we needed to think about the ticketing problem.
+We encountered several significant UX challenges in our project, focusing on two primary areas: the ticketing process and the underlying infrastructure.
 
-How can we make the frustrating process of buying into an oversubcribed event enyoable again?
-How can we activate our future event attendees?
-How can the process be fairer?
+#### Ticketing Process
+One of our main objectives was to reimagine the ticketing experience for oversubscribed events. Key questions we addressed included:
 
-On the other hand we needed to think about the infrasstructure we use.
+- **Enhancing the User Experience:** How can we transform the frustrating process of buying tickets into an enjoyable experience?
+- **Fairness:** How can we ensure the ticketing process is fair and transparent for all users?
+- **Engagement:** What strategies can we use to activate and engage future event attendees?
 
-How can we use Gelato.networks RaaS, their middleware as VRF, relayer and their thirdparty integrations as Thirdweb to be as onboarding friendly as a new infrastructure need to be to get masses to use them and try to minimilize technical restrictions for normies.
+#### Infrastructure and Onboarding
+The second area of focus was the infrastructure supporting our platform. We aimed to leverage Gelato.Network's RaaS, their middleware like VRF and relayer services, and third-party integrations such as Thirdweb. Our goals were:
 
-How should a user know kow how to create a wallet?
-How can a user know that there might be a fee to pay for clicking a button aka doing some actioins? Where should the user get the fee token from?
-How can a normie get all the technical barriers of the existing infastructure landscape?
+- **User-Friendly Onboarding:** How can we make the onboarding process intuitive and accessible to a wide audience, minimizing technical restrictions?
+- **Wallet Creation:** How can we simplify the process for users to create and manage digital wallets?
+- **Transaction Fees:** How can we educate users about potential transaction fees and streamline the process of obtaining necessary tokens?
+- **Technical Barriers:** What measures can we implement to reduce technical barriers and make the infrastructure more approachable for non-technical users?
+
+By addressing these challenges, we aimed to create a  fair, and user-friendly experience for all our users, ensuring accessibility and engagement across all phases.
+
 
 ## Problem Statement and Ideation Process
 
@@ -63,7 +68,6 @@ We employ a running down time metaphor in the bars representing the four phases 
 Active and Remaining Time: Represented by the active color "Harmony Green."  
 Passed Time: Indicated by turning the bar grey in "Whispering Fog."  
 These features are designed to create an intuitive and engaging user experience, ensuring that every aspect of the interface aligns with our overarching goal.  
-
 
 
 Technical approach:
@@ -93,9 +97,40 @@ Win Notification: Color-coded as Mystic Berry, accompanied by a micro animation 
 
 
 Labeling and terminology  
-For the Phases we are thinking about making them more engaging and more human through names like ...
+We created a Stylescape as point of reference to establish the overall look and feel for the BLESSED Experience Design Language. Think of Styelscapes as moodboards taken to the next level which shows a few samples of what the final design could look like. They help us agree on the design direction and visual interaction elements before designing anything. It’s not just about creating modular design materials—it’s also about creating a lifestyle ecosystem as well.
 
-** Link for Notion and see contnet there** 
+At the moment we didn't rename the phases but we are aware of the fact that we need to get better names.
+First options we came with with:
+
+### Lottery I
+
+- Random Raffle
+- Raffle Draw
+- Random Draw
+- Ticket Draw
+- Lucky Draw
+
+### Lottery II
+
+- Lucky Slot
+- Lucky Roll
+- Dice Roll
+- Boost Roll
+- Lucky Boost
+
+### Auction I
+
+- Bid Rounds
+- Quick Bids
+- Bid Blitz
+- Bid Race
+
+### Auction II
+
+- Champ Auction
+- Top Auction
+- Rank Auction
+- Elite Auction
 
 ### Design
 
