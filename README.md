@@ -71,9 +71,25 @@ Technical approach:
 - Step II - Paying Gas to do any form of transaction is the next UX challenge to onboard non crypto natives. Here we used Gelatos Relayer option and Thirdwebs account abstraction. 
 - Step III - Bundling transactions - as we create various contracts per event they needed to be deployed by the creator of the event. We used OpenZepplins Clone function to bundle these into a single transaction, that is executed now when the event creator clicks the create event button. 
 
-### Usability
+### Main Functionalities
 
-A text block about usability and how our solution improves it.
+We have an "Enroll" area docked to the event detail pages, which opens as soon as the user initiates the enrollment process. 
+Within the opened "Enroll" area, the user will see the main ticket purchasing section, which can be collapsed by clicking an arrow icon.
+
+When closed, this area displays information about the remaining time of the lottery or auction phase. 
+We have four phases: Lottery 1, Lottery 2, Auction 1, and Auction 2. Following these phases, there is a Marketplace where users can resell their tickets.
+
+The "Enroll" area is divided into two parts: 
+Left Side: The deposit and cart area.
+Right Side: Occupying more than two-thirds of the space, this is the main part of the interactive window. It contains an interactive timeline showing the duration of each phase. At the top of this section, there is information about the entire ticket purchasing process for the event, including its end time.
+
+Below the phases timeline, there are boxes with information and interactions specific to each phase. For example, in Lottery 2, users can add more money to generate numbers, increasing their chances of winning. To make this action more engaging and exciting, the highlight color orange is used for the button.
+
+Notifications appear on the right sidebar within the interactive window area. These notifications inform the user about:
+Cooldown Phase Start: Color-coded as Chill Blue.
+Boost Phase Activation: Color-coded as Vibrant Orange.
+Friendly Reminders: To generate a new number, also in Vibrant Orange.
+Win Notification: Color-coded as Mystic Berry, accompanied by a micro animation with confetti, drawing attention to the cart/deposit/mint area on the left.
 
 ### Design
 
