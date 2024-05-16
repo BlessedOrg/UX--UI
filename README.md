@@ -95,7 +95,8 @@ Left Side: The deposit and cart area.
 Right Side: Occupying more than two-thirds of the space, this is the main part of the interactive window. It contains an interactive timeline showing the duration of each phase. At the top of this section, there is information about the entire ticket purchasing process for the event, including its end time.
 Below the phases timeline, there are boxes with information and interactions specific to each phase. For example, in Lottery 2, users can add more money to generate numbers, increasing their chances of winning. To make this action more engaging and exciting, the highlight color orange is used for the button.
 
-Notifications appear on the right sidebar within the interactive window area. These notifications inform the user about:
+Notifications appear on the right sidebar within the interactive window area.   
+These notifications inform the user about:
 
 Cooldown Phase Start: Color-coded as Chill Blue.  
 Boost Phase Activation: Color-coded as Vibrant Orange.  
@@ -131,13 +132,22 @@ Tone of Voice The tone of voice of our app is modern and entertaining, while a
 
 ## Colors
 
-![Colors](Images/BLESSED-Stylescape.png)
+In our UX design, we apply the 60-30-10 rule to ensure a balanced and harmonious color scheme. **60%** of the visual space is dominated by our primary colors: **Harmony Green**, complemented by **Whispering Fog** and **Lunar Glow**, creating a calm and neutral backdrop. 
+
+![Colors](Images/BLESSED-Colors1.jpg)
 *Blessed colors*
 
-In our UX design, we apply the 60-30-10 rule to ensure a balanced and harmonious color scheme. **60%** of the visual space is dominated by our primary colors: **Harmony Green**, complemented by **Whispering Fog** and **Lunar Glow**, creating a calm and neutral backdrop. **30%** is allocated to **Mystic Berry** and **Eclipse Black**, used on interactive elements like buttons and links to draw attention and enhance user engagement, such as minting after winning a ticket. The remaining **10%** features **Vibrant Orange** for critical interactions and alerts, alongside **Sunny Whisper** paired with **Mystic Berry** to guide and inform the user. This ensures these elements catch the user’s eye and reinforce the overall usability and aesthetic of the design.
 
-![Colors](Images/blessed_color_coding.png)
-*Download for the full color UX overviews*
+**30%** is allocated to **Mystic Berry** and **Eclipse Black**, used on interactive elements like buttons and links to draw attention and enhance user engagement, such as minting after winning a ticket. 
+![Colors](Images/BLESSED-Colors2.jpg)
+*Blessed colors*
+
+
+The remaining **10%** features **Vibrant Orange** for critical interactions and alerts, alongside **Sunny Whisper** paired with **Mystic Berry** to guide and inform the user. This ensures these elements catch the user’s eye and reinforce the overall usability and aesthetic of the design.
+
+![Colors](Images/BLESSED-Colors3.jpg)
+*Blessed colors*
+
 
 
 ## Icons usage in our UX Design 
