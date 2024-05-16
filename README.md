@@ -124,9 +124,20 @@ Labeling and Terminology For the phases, we are considering making them more e
 
 Tone of Voice The tone of voice of our app is modern and entertaining, while also being guiding, transparent, and professional. This ensures that users feel supported and informed throughout their experience, enhancing both usability and enjoyment.
 
+![Colors](Images/colors2.png)
+*Blessed colors*
+
+
 ## Colors
 
+![Colors](Images/colors2.png)
+*Blessed colors*
+
 In our UX design, we apply the 60-30-10 rule to ensure a balanced and harmonious color scheme. **60%** of the visual space is dominated by our primary colors: **Harmony Green**, complemented by **Whispering Fog** and **Lunar Glow**, creating a calm and neutral backdrop. **30%** is allocated to **Mystic Berry** and **Eclipse Black**, used on interactive elements like buttons and links to draw attention and enhance user engagement, such as minting after winning a ticket. The remaining **10%** features **Vibrant Orange** for critical interactions and alerts, alongside **Sunny Whisper** paired with **Mystic Berry** to guide and inform the user. This ensures these elements catch the user’s eye and reinforce the overall usability and aesthetic of the design.
+
+![Colors](Images/colors.png)
+*Download for the full color UX overviews*
+
 
 ## Icons usage in our UX Design 
 
