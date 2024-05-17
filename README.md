@@ -243,4 +243,9 @@ An animation that demonstrates the functionality of our solution:
 </video>
 
 
+## Gelato Bounty 
+
+For the Gelato Bounty we create our own repo where we share our findings.
+We needed to link it here too, please consider that this was a contraint of handing in a submission to pick one and to be complete we listed it here as well as in the other signed in built where we soley focused on UX challenges.
+[Visit our dedicated repo](https://github.com/username/repo-name](https://github.com/vuejs/vue](https://github.com/BlessedOrg/Gelato)
 
