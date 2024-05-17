@@ -9,6 +9,7 @@ Our submission for the UX competition at the Celestia Infinite Space Bazaar Hack
 Welcome to the UX presentation page for our innovative UX solution around the project "Blessed".
 
 ## Table of Contents
+![Stylescape](Images/BLESSED-Stylescape.png)
 
 1. [Introduction](#introduction)
 2. [UX Challenges](#Our-UX-Challenges)
@@ -19,14 +20,17 @@ Welcome to the UX presentation page for our innovative UX solution around the pr
 7. [Icons usage in our UX Design](#Icons-usage-in-our-UX-Design)
 8. [Typography TT Bluescreens & Inter](#Typography-TT-Bluescreens-&-Inter)
 9. [Logo Design BLESSED](#Logo-Design-BLESSED)
-10. [Animation](#Animation)
+11. [Webseite](#Website)
+12. [Mobile](#Mobile)
+13. [Animation](#Animation)
 
 
 
 ## Introduction
 
-Our mission is to add a user experience (UX) that has the capability to onboard masses. With "Blessed", we've crafted a solution that is intuitive, effective, and visually captivating. We considered the challenges users face when waiting in virtual queues for oversubscribed events. Our goal was to make this process more engaging and enjoyable while ensuring a fair and transparent distribution model for such events. Our solution strikes for the perfect balance, transforming waiting times into enjoyable experiences while making ticketing fair und transparent. 
+Our mission is to add a user experience (UX) that has the capability to onboard masses. With "Blessed", we've crafted a solution that is intuitive, effective, and visually captivating. We considered the challenges users face when waiting in virtual queues for oversubscribed events. Our goal was to make this process more engaging and enjoyable while ensuring a fair and transparent distribution model for such events. Our solution strikes for the perfect balance, transforming waiting times into enjoyable experiences while making ticketing fair und transparent.   
 
+![Stylescape](Images/BLESSED-Stylescape.png)
 
 ## Our UX Challenges
 
@@ -64,7 +68,8 @@ During Waiting Periods we have our Entertainment and Information Slider: An inte
 
 “Take a Break” Switch: A switch that transforms the slider content into a "Back to Lottery / Auction" view, supported by a vertical switch flip animation for a smooth transition between the slider and lottery areas.  
 
-Cooldown Phase Countdown: A countdown timer with color coding in "BLESSED Chill Blue" to indicate cooldown phases, providing users with a clear visual cue for breaks.  
+Cooldown Phase Countdown: A countdown timer with color coding in "BLESSED Chill Blue" to indicate cooldown phases, providing users with a clear visual cue for breaks. 
+  
 ![Cooldown](Images/cooldown.png)
 
 Visualizing the Four Main Phases:  
@@ -118,7 +123,7 @@ In designing our product, we aimed to balance the needs of new users with those 
 
 To maintain a consistent and intuitive user experience, we use a color-coding system:
 
-```Support and Hints: Items related to support and hints are highlighted with the color "Mystic Berry." ```
+```Support and Hints: Items related to support and hints are highlighted with the color "Mystic Berry." ```   
 ```Background Elements: These items are set against a background color of "Sunny Whisper."```
 
 This approach ensures that both new and experienced users can easily find the help they need without feeling overwhelmed or patronized.  
@@ -168,7 +173,61 @@ The logo for BLESSED features a unique pictorial mark: a heart rotated by 90 deg
 
 ![Logo](Images/blessed_logo.png)
 
-This inventive and modular design is paired with a word mark “BLESSED” in capital letters using the TT Bluescreens font. This combination ensures that our logo is not only distinctive and impactful but also aligns seamlessly with our overall brand identity, utilizing the strength and character of our corporate fonts.
+This inventive and modular design is paired with a word mark “BLESSED” in capital letters using the TT Bluescreens font. This combination ensures that our logo is not only distinctive and impactful but also aligns seamlessly with our overall brand identity, utilizing the strength and character of our corporate fonts.  
+
+## Website
+
+**Innovative Filter System**
+
+Navigating a plethora of events and concerts surrounding a main conference can be overwhelming for users.   
+Our innovative filter system is designed to provide clarity and guidance, making it easy for users to find what they're looking for.
+
+**Guiding Users Through Our Design**
+
+We use thoughtfully crafted design elements to guide users through our homepage.   
+The prominent filter system is a key component in offering personalized guidance.
+
+![Homepage](Images/BLESSED-homepage.png)
+
+#### Key Filter Options
+
+- **What**: Users can specify their preferences or choose a combination of Conferences, Events, or Concerts. This helps them narrow down the options to what truly interests them.
+
+- **Where**: Users can define the timeframe they have available for these activities. This ensures they can plan their schedule efficiently around the main conference or event.
+
+- **When**: Users can select their preferred locations. We use cities as the primary filter, as users typically know where they are going and when.
+
+- **Who**: This filter is perfect for those who want to follow specific experts. Users can find events featuring their favorite speakers or performers, enhancing their overall experience.
+
+By leveraging these filters, our system transforms a potentially overwhelming array of options into a tailored, user-friendly experience. 
+
+
+**Event Page Design**
+
+When a user navigates to an event page, we aim to provide a clean and intuitive design with our signature elements. Our goal is to offer ample space for browsing event details while ensuring that users can easily see any ongoing sales and interact with them at any time.
+
+**Clean and Spacious Layout**
+
+We designed the event page to give users plenty of room to explore event details. This clean layout ensures that all the essential information is easily accessible without feeling cluttered.
+
+**Interactive Window**
+
+Our interactive window is a key feature that enhances user engagement. It offers everything needed to seamlessly purchase tickets while providing an option for entertainment. Users can switch to the other side of the interactive window for a more engaging experience at any time.
+
+**Key Elements of the Event Page**
+
+- **Event Details**: Clear and concise presentation of event information, including date, time, location, and descriptions.
+  
+- **Ongoing Sales**: Visibility of any ongoing sales or promotions, allowing users to take advantage of offers without missing out.
+  
+- **Interactive Window**: A playful and engaging feature where users can:
+  - Purchase tickets easily.
+  - Flip to the other side for additional entertainment options.
+
+By combining a spacious layout with interactive features, our event page ensures users have a seamless and enjoyable experience while accessing all the information and tools they need.
+
+
+![Event](Images/BLESSED-event-page.png)
 
 
 
