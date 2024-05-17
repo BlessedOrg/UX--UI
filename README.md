@@ -1,5 +1,5 @@
-# UX--UI of the Blessed solution
-Our submission for the UX / UI competition at thge Celestia Infinite Space Bazaar Hackathon
+# UX of the Blessed solution
+Our submission for the UX competition at the Celestia Infinite Space Bazaar Hackathon
 
 
 ---
@@ -56,7 +56,7 @@ The goal of our project is to create a enjoyfull experience for users transition
 This objective serves as a foundational framework to guide all subsequent decisions:
 
 ```
-“Make switching between exploring the event background information and purchasing a ticket feel natural.”
+“Make switching between exploring event details and buying a ticket feel intuitive and smooth.”
 ```
 This guiding principle has led us to explore various ideas aimed at entertaining and engaging the user, such as:   
 
