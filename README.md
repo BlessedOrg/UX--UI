@@ -75,7 +75,7 @@ During Waiting Periods we have our Entertainment and Information Slider: An inte
 
 Cooldown Phase Countdown: A countdown timer with color coding in "BLESSED Chill Blue" to indicate cooldown phases, providing users with a clear visual cue for breaks. 
   
-![Cooldown](Images/cooldown.png)
+![Cooldown](Images/BLESSED-Interactive-window-Slider.png)
 
 Visualizing the Four Main Phases:  
 We employ a running down time metaphor in the bars representing the four phases of our product's main functionality.  
@@ -166,7 +166,6 @@ Mystic Berry (Behind “How it works” modals): This color is used to draw atte
 
 Sunny Whisper (Yellow, Before the first lottery starts): Sunny Whisper is used for its warm and optimistic connotations. Before the first lottery begins, this pale yellow communicates a sense of anticipation and possibility, encouraging users to feel positive and hopeful about the upcoming event.
 
-So how did we use Sunny Whisper.  
 ![Colors](Images/sunnywhisper.png)
 
 
@@ -272,7 +271,7 @@ Then we developed the visula elements
 
 ![Animation](Images/Blessed-Animation-visual-element.png)
 
-The first resuklt of ths is our branbding intro animation.  
+The first result of ths is our branding intro animation.  
 https://bit.ly/blessedfan
 
 ## Mobile
