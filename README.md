@@ -1,15 +1,14 @@
 # UX of the Blessed solution
-Our submission for the UX competition at the Celestia Infinite Space Bazaar Hackathon
+Our submission for the UX competition at the Celestia's Infinite Space Bazaar Hackathon
 
 
 ---
 
 # Blessed UX Solution
 
-Welcome to the UX presentation page for our innovative UX solution around the project "Blessed".
+Welcome to the UX presentation page for our innovative UX solution around our project "Blessed".
 
 ## Table of Contents
-![Stylescape](Images/BLESSED-Stylescape.png)
 
 1. [Introduction](#introduction)
 2. [UX Challenges](#Our-UX-Challenges)
@@ -23,14 +22,18 @@ Welcome to the UX presentation page for our innovative UX solution around the pr
 11. [Webseite](#Website)
 12. [Mobile](#Mobile)
 13. [Animation](#Animation)
+14. [Related Links](#Related-further-Links)
+    
 
 
 
 ## Introduction
 
-Our mission is to add a user experience (UX) that has the capability to onboard masses. With "Blessed", we've crafted a solution that is intuitive, effective, and visually captivating. We considered the challenges users face when waiting in virtual queues for oversubscribed events. Our goal was to make this process more engaging and enjoyable while ensuring a fair and transparent distribution model for such events. Our solution strikes for the perfect balance, transforming waiting times into enjoyable experiences while making ticketing fair und transparent.   
+Our mission is to add a user experience (UX) that has the capability to onboard masses. 
 
-![Stylescape](Images/BLESSED-Stylescape.png)
+![Cooldown](Images/cooldown.png)
+
+With "Blessed", we've crafted a solution that is intuitive, effective, and visually captivating. We considered the challenges users face when waiting in virtual queues for oversubscribed events. Our goal was to make this process more engaging and enjoyable while ensuring a fair and transparent distribution model for such events. Our solution strikes for the perfect balance, transforming waiting times into enjoyable experiences while making ticketing fair und transparent.   
 
 ## Our UX Challenges
 
@@ -150,6 +153,23 @@ In our UX design, we apply the 60-30-10 rule to ensure a balanced and harmonious
 
 The remaining **10%** features **Vibrant Orange** for critical interactions and alerts, alongside **Sunny Whisper** paired with **Mystic Berry** to guide and inform the user. This ensures these elements catch the user’s eye and reinforce the overall usability and aesthetic of the design.
 
+So how did we use these Eclipse Black.  
+![Colors](Images/EclipseBlack-general.png)
+
+
+So how did we use these Harmony Green.  
+![Colors](Images/HarmonyGreen.png)
+
+
+So how did we use Skybluw.  
+![Colors](Images/skyblue-cooldown.png)
+
+So how did we use Sunny Whisper.  
+![Colors](Images/sunnywhisper.png)
+
+
+
+
 
 
 
@@ -225,7 +245,8 @@ Our interactive window is a key feature that enhances user engagement. It offers
   - Flip to the other side for additional entertainment options.
 
 By combining a spacious layout with interactive features, our event page ensures users have a seamless and enjoyable experience while accessing all the information and tools they need.
-
+<video src="Animation/BLESSED_SFX_4K.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
 ![Event](Images/BLESSED-event-page.png)
 
@@ -233,19 +254,40 @@ By combining a spacious layout with interactive features, our event page ensures
 
 ## Animation
 
-An animation that demonstrates the functionality of our solution:
+An animation that demonstrates the functionality of our solution    
+Here we spen tons of time going back and forth and we are stikll not finished but like to show the first results and how we got there.
+![Animation](Images/Blessed-Animation-storyboard.png)  
 
-![Animation](Animation/BLESSED_SFX_4K.mp4)
+Then we developed the visula elements 
 
-<video width="640" height="480" controls>
-    <source src="Animation/BLESSED_SFX_4K.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+![Animation](Images/Blessed-Animation-visual-element.png)
+
+The first resuklt of ths is our branbding intro animation.  
+https://bit.ly/blessedfan
+
+## Mobile
+Here you a first gist how the look and feel will be when we have Mobile ready.  
+
+![Mobile](Images/BLESSED-mockup-1.png)  
+
+![Mobile](Images/BLESSED-mockup-2.png)  
+
+![Mobile](Images/BLESSED-mockup-3.png)
+
+
+## Related further Links
+Here we list all relevant other repos.
+
+## APP 
+
+We create a dedicated repo for the APP to you understand the database structure and how to set it up.
+https://github.com/BlessedOrg/swifty-app  
 
 
 ## Gelato Bounty 
 
-For the Gelato Bounty we create our own repo where we share our findings.
-We needed to link it here too, please consider that this was a contraint of handing in a submission to pick one and to be complete we listed it here as well as in the other signed in built where we soley focused on UX challenges.
-[Visit our dedicated repo](https://github.com/username/repo-name](https://github.com/vuejs/vue](https://github.com/BlessedOrg/Gelato)
+For the Gelato Bounty we create also our own repo where we share our findings.
+We needed to link it at the UX Challenge too, please consider that this was a constraint of handing in a submission to pick one and to be complete we listed it here as well as in the other signed in built where we soley focused on UX challenges.  
+https://github.com/BlessedOrg/Gelato
+
 
