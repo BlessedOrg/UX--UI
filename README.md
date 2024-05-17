@@ -275,13 +275,16 @@ The first result of ths is our branding intro animation.
 https://bit.ly/blessedfan
 
 ## Mobile
-Here you a first gist how the look and feel will be when we have Mobile ready.  
+Preview of Mobile App Design
+We are excited to share the first mockups of our mobile app, showcasing the anticipated look and feel along with the key functionalities. These initial designs give you a glimpse of the user experience and visual aesthetics that will define our mobile version..  
+
+![Mobile](Images/BLESSED-mockup-3.png)
 
 ![Mobile](Images/BLESSED-mockup-1.png)  
 
 ![Mobile](Images/BLESSED-mockup-2.png)  
 
-![Mobile](Images/BLESSED-mockup-3.png)
+
 
 
 ## Related further Links
