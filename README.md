@@ -69,6 +69,8 @@ This guiding principle has led us to explore various ideas aimed at entertaining
 
 During Waiting Periods we have our Entertainment and Information Slider: An interactive window featuring an entertainment and information slider to keep users engaged while they wait.  
 
+![Cooldown](Images/cooldown.png)
+
 “Take a Break” Switch: A switch that transforms the slider content into a "Back to Lottery / Auction" view, supported by a vertical switch flip animation for a smooth transition between the slider and lottery areas.  
 
 Cooldown Phase Countdown: A countdown timer with color coding in "BLESSED Chill Blue" to indicate cooldown phases, providing users with a clear visual cue for breaks. 
@@ -153,23 +155,31 @@ In our UX design, we apply the 60-30-10 rule to ensure a balanced and harmonious
 
 The remaining **10%** features **Vibrant Orange** for critical interactions and alerts, alongside **Sunny Whisper** paired with **Mystic Berry** to guide and inform the user. This ensures these elements catch the user’s eye and reinforce the overall usability and aesthetic of the design.
 
-So how did we use these Eclipse Black.  
+Eclipse Black (Behind general modals): 
+Chosen for its sophistication and depth, Eclipse Black creates a neutral, unobtrusive backdrop that helps general modals stand out without distraction. This color minimizes visual strain and keeps the user focused on the modal content.  
+
 ![Colors](Images/EclipseBlack-general.png)
 
+Mystic Berry (Behind “How it works” modals): This color is used to draw attention and invoke curiosity. Mystic Berry’s vibrant and enchanting qualities make it ideal for "How it works" modals, where engaging the user and providing clear, intriguing information is key.
 
-So how did we use these Harmony Green.  
-![Colors](Images/HarmonyGreen.png)
+![Colors](Images/MysticBerry-HIW.png)
 
-
-So how did we use Skybluw.  
-![Colors](Images/skyblue-cooldown.png)
+Sunny Whisper (Yellow, Before the first lottery starts): Sunny Whisper is used for its warm and optimistic connotations. Before the first lottery begins, this pale yellow communicates a sense of anticipation and possibility, encouraging users to feel positive and hopeful about the upcoming event.
 
 So how did we use Sunny Whisper.  
 ![Colors](Images/sunnywhisper.png)
 
 
+Harmony Green (While the lottery/auction phases are running/active): Harmony Green signifies growth, balance, and renewal. Using this color while the lottery or auction is active promotes a sense of calm and steady progress. It reassures users that the process is ongoing and stable, which is crucial for maintaining trust and engagement during these phases.
+
+![Colors](Images/HarmonyGreen.png)
 
 
+Sky Blue (In cooldown phases): Selected for its cool, calming effects, Sky Blue represents tranquility and a relaxed pace. During cooldown phases, this color helps communicate a period of rest or lower activity, encouraging users to reflect and prepare for the next active phase without feeling rushed.
+ 
+![Colors](Images/skyblue-cooldown.png)
+
+This color strategy is designed to leverage the psychological effects and symbolic associations of each color to create a user-friendly, intuitive interface that aligns with the different states and phases of our application, enhancing the overall user experience.
 
 
 
