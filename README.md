@@ -31,7 +31,7 @@ Welcome to the UX presentation page for our innovative UX solution around our pr
 
 Our mission is to add a user experience (UX) that has the capability to onboard masses. 
 
-![Cooldown](Images/cooldown.png)
+![Cooldown](Images/1-BLESSED-home-page.png)
 
 With "Blessed", we've crafted a solution that is intuitive, effective, and visually captivating. We considered the challenges users face when waiting in virtual queues for oversubscribed events. Our goal was to make this process more engaging and enjoyable while ensuring a fair and transparent distribution model for such events. Our solution strikes for the perfect balance, transforming waiting times into enjoyable experiences while making ticketing fair und transparent.   
 
